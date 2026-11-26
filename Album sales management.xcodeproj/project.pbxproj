@@ -19,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		76D347A530B80B340018209A /* Album sales management */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Album sales management"; sourceTree = BUILT_PRODUCTS_DIR; };
+		76E6180C30B812DE00BA1F8E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -41,6 +42,7 @@
 		76D3479C30B80B340018209A = {
 			isa = PBXGroup;
 			children = (
+				76E6180C30B812DE00BA1F8E /* README.md */,
 				76D347A730B80B340018209A /* Album sales management */,
 				76D347A630B80B340018209A /* Products */,
 			);

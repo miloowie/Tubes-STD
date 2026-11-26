@@ -101,7 +101,7 @@ void printParent(ListParent L){
     int no = 1;
     while (P != NULL) {
         cout << no << ". " << P->info.namaGrup
-             << " | " << P->info.agensi
+        << " | " << P->info.agensi;
         P = P->next;
         no++;
     }
