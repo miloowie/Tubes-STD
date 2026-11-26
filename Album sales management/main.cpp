@@ -1,15 +1,15 @@
-//
-//  main.cpp
-//  Album sales management
-//
-//  Created by ARVA on 26/11/26.
-//
-
 #include <iostream>
+#include "mll.h"
 using namespace std;
 
+void judul(string teks) {
+    cout << endl << "=== " << teks << " ===" << endl;
+}
 
 int main() {
-    cout << "testing push";
+    ListParent L;
+    adrParent P;
+
+
     return 0;
 }
